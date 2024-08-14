@@ -35,7 +35,7 @@ A simple App to quiz you on your React knowledge.
 <strong>Functions:</strong> `Expand` | `Collapse` | `Truncate Text`</br>
 <strong>Deployment:</strong> The project was deployed on Netlify so that it could be available to the public.</br>
 
-https://project07-oszymorek.netlify.app/
+https://project09-oszymorek.netlify.app/
 
 ```sh
 └── show/
