@@ -23,7 +23,7 @@
 
 ## Project #9 - Show Functionality
 
-A simple App to quiz you on your React knowledge. 
+A Simple Funtionality to Expand/Collapse text. 
 
 <strong>Creation Process</strong> </br>
 <strong>Initialising the project:</strong> I used create-react-app to create the basic structure of the project.</br>
