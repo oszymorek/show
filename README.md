@@ -37,6 +37,7 @@ A Simple Funtionality to Expand/Collapse text.
 
 https://project09-oszymorek.netlify.app/
 
+## Repository Structure
 ```sh
 └── show/
     ├── README.md
